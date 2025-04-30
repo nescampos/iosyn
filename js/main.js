@@ -1,7 +1,7 @@
-var urlRPC = "https://json-rpc.evm.testnet.iota.cafe";
+var urlRPC = "https://json-rpc.evm.testnet.iotaledger.net";
 var currency = "IOTA";
 var networkName = "IOTA EVM Testnet";
-const chainId = 1076;
+const chainId = 1075;
 const milisecondsToWait = 15000;
 
 var web3 = new Web3(new Web3.providers.HttpProvider(urlRPC));
