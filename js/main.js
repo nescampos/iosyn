@@ -1,4 +1,4 @@
-var urlRPC = "https://json-rpc.evm.testnet.iotaledger.net";
+var urlRPC = "https://iota-testnet-evm.public.blastapi.io";
 var currency = "IOTA";
 var networkName = "IOTA EVM Testnet";
 const chainId = 1075;
